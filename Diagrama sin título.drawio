@@ -91,7 +91,7 @@
         <mxCell id="DscXLbWQ7FLf-Pz2k0ZC-31" parent="DscXLbWQ7FLf-Pz2k0ZC-30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="_FechayHora" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="DscXLbWQ7FLf-Pz2k0ZC-32" parent="DscXLbWQ7FLf-Pz2k0ZC-30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Motivo" vertex="1">
+        <mxCell id="DscXLbWQ7FLf-Pz2k0ZC-32" parent="DscXLbWQ7FLf-Pz2k0ZC-30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="_Motivo" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="DscXLbWQ7FLf-Pz2k0ZC-33" parent="DscXLbWQ7FLf-Pz2k0ZC-30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="_Estado" vertex="1">
